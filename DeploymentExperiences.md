@@ -1,0 +1,2 @@
+The deployment was pretty straight forward. I skipped a few steps not really paying attention which lead to some funky errors. One error in particular stemmed from not 
+adding the `STATIC_ROOT =` in settings.py. That one took me most of the day to figure out but after I did it was smooth sailing from there. 
